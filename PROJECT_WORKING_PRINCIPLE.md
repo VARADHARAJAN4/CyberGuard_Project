@@ -159,9 +159,10 @@ Recommendations are action-oriented, mapped per alert type, e.g.:
 - `cyberguard/dashboard.py`: Streamlit UI
 
 
-Implemented By
-Varadharajan A 
-AI Engineer and Trainer
+Implemented By,
+
+Varadharajan A -AI Engineer and Trainer
+
 https://varadharajan4.github.io/portfolio/
 
 https://www.linkedin.com/in/varadharajan-arul-78877b16/
